@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-googlemaps orders",
+  "version": "1.0.0",
+  "description": "Getting all orders to be delivered from json and showing with google maps",
+  "main": "index.js",
+  "author": "Victor",
+  "license": "ISC",
+  "dependencies": {
+    "express": ">=4.13",
+    "jade": "1.11.0"
+  },
+}
